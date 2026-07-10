@@ -1,0 +1,4 @@
+address,category,source
+0x000000000000000000000000000000000000dead,sanctioned,OFAC SDN (illustrative)
+0x1111111111111111111111111111111111111111,mixer,Internal analytics (illustrative)
+0x2222222222222222222222222222222222222222,scam,Community reports (illustrative)
